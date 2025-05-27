@@ -1,0 +1,68 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{graphicx, anysize} %package to import graphics or images
+\usepackage[letterpaper]{geometry}
+\setlength{\marginparwidth}{2cm} % Set marginparwidth before loading todonotes
+\usepackage{todonotes}
+\graphicspath {{images/}} %configuring the graphicx package
+
+\title{Anteproyecto de Investigación de Doctorado}
+\author{Juan Carlos Venegas Aburto}
+\date{mayo 2025}
+
+\geometry{top=3cm, bottom=3cm, left=2.5cm, right=2.5cm}
+
+\begin{document}
+%%%%%%%%%%%%%%%%PORTADA%%%%%%%%%%%%%%%%%%%%
+\newgeometry{top=1cm, bottom=1cm, left=2.5cm, right=2.5cm}
+\begin{center}
+    \thispagestyle{empty}
+    \includegraphics [width=0.25\textwidth] {images/logoUV}
+
+    \vspace{1.5cm}
+
+    \LARGE{Título tentativo del trabajo:}\\
+    \LARGE{\textbf{Modelo Colaborativo asistido por computadora para la integración y disposición del historial clínico de los pacientes}}
+
+    \vspace{2cm}
+    
+    \LARGE{\textbf{ANTEPROYECTO}}
+    
+    \vspace{2cm}
+
+    \Large{Aspirante:}\\
+    \LARGE{\textbf{Juan Carlos Venegas Aburto}}
+
+    \vspace{2cm}
+
+    \Large{Afiliación Institucional}
+
+
+    \LARGE{\textbf{Universidad Veracruzana}}\\
+    \LARGE{\textbf{Facultad de Estadística e Informática}}
+        
+\end{center}
+
+\vspace{4cm}
+
+\Large Xalapa, Veracruz, México \hfill \Large mayo 2025
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%Tabla de contenidos%%%%%%%%%%%%%%%
+\newgeometry{top=3cm, bottom=3cm, left=2.5cm, right=2.5cm}
+\thispagestyle{empty}
+
+\renewcommand{\contentsname}{Ìndice}
+\tableofcontents
+
+\newpage
+%%%%%%%%%%%Contenidos%%%%%%%%%%%%%%%%%%%%
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{Introduccion.tex}
+\input{MetodologiaCientifica.tex}
+\input{Resultados.tex}
+\input{Referencias.tex}
+
+
+\end{document}
