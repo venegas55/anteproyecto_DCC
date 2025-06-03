@@ -1,14 +1,19 @@
 {
-    "cSpell.language": "en,es-ES",
-    "cSpell.words": [
-        "correlacional",
-        "escalabilidad",
-        "Hipócrates",
-        "Hipocrática",
-        "imagenología",
-        "interoperabilidad",
-        "propedéutica",
-        "semeyon",
-        "Sindromología"
-    ]
+  "cSpell.language": "en,es-ES",
+  "cSpell.words": [
+    "correlacional",
+    "escalabilidad",
+    "Gantt",
+    "Hipócrates",
+    "Hipocrática",
+    "imagenología",
+    "interoperabilidad",
+    "propedéutica",
+    "semeyon",
+    "semiestructuradas",
+    "Sindromología"
+  ],
+  "cSpell.enabledFileTypes": {
+    "latex": true
+  }
 }

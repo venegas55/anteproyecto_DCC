@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  28 MAY 2025 17:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.12)  2 JUN 2025 19:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -470,17 +470,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [7]
 
 [8]
-Overfull \hbox (0.57072pt too wide) in paragraph at lines 17--18
-\OT1/cmr/m/n/17.28 Evaluaci^^Son del mod-elo im-ple-men-tado me-di-ante la recolecci^^Son de datos
- []
 
+[9]
 
+[10]) (./Resultados.tex
 
-[9]) (./Resultados.tex) (./Referencias.tex)
+[11]) (./Referencias.tex)
 
-[10]
-
-[11] (./Portada.aux)
+[12] (./Portada.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
@@ -495,10 +492,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  99i,5n,101p,1078b,242s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on Portada.pdf (13 pages, 335853 bytes).
+Output written on Portada.pdf (14 pages, 338366 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 80 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
