@@ -1,0 +1,661 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{ali_securing_2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=4b8c5d944220c8d74bb690d369cebe8b}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Althaf},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed4d0f791c6e95b6e89c6ba08bb874fe}{%
+           family={Gunavathie},
+           familyi={G\bibinitperiod},
+           given={M.A.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e267db9cb39c5fa30cf74c4da18b5b3c}{%
+           family={Srinivasan},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dac1bfb34b96e6c4982f11882ff2dac7}{%
+           family={Aruna},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbf286eb1c2282e6ac3700559a392cd8}{%
+           family={Chennappan},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b65693e2aa1a026af1a4e9345ec57de}{%
+           family={Matheena},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{dc27560d225a5b04e32e599b9583054b}
+      \strng{fullhash}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{fullhashraw}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{bibnamehash}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{authorbibnamehash}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{authornamehash}{dc27560d225a5b04e32e599b9583054b}
+      \strng{authorfullhash}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{authorfullhashraw}{8862000fbadd3b5f2900d8cd61eff803}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{25889141}
+      \field{journaltitle}{Clinical eHealth}
+      \field{month}{4}
+      \field{title}{Securing electronic health records using blockchain-enabled federated learning for {IoT}-based smart healthcare}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{S2588914125000164}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.ceh.2025.04.002
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2588914125000164
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2588914125000164
+      \endverb
+    \endentry
+    \entry{dhar_advances_2025}{book}{}{}
+      \name{editor}{5}{}{%
+        {{un=0,uniquepart=base,hash=db18ef3cd46a12939a3835ccd731cbfb}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Sourav},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2401169f2c52cd48fb26ffb2e644efd0}{%
+           family={Mukhopadhyay},
+           familyi={M\bibinitperiod},
+           given={Subhas},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=822e8fd7ccfae6436154dacc1f00b298}{%
+           family={Do},
+           familyi={D\bibinitperiod},
+           given={Dinh-Thuan},
+           giveni={D\bibinithyphendelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=468fa6544edb36e66aef0b400921e0c1}{%
+           family={Sur},
+           familyi={S\bibinitperiod},
+           given={Samarendra\bibnamedelima Nath},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e41c0b7c439278dd63e26f43bc076ee8}{%
+           family={Imoize},
+           familyi={I\bibinitperiod},
+           given={Agbotiname\bibnamedelima Lucky},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Singapore}%
+      }
+      \strng{namehash}{2276b35c33f9c4261b649094538eb4bb}
+      \strng{fullhash}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{fullhashraw}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{bibnamehash}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{editorbibnamehash}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{editornamehash}{2276b35c33f9c4261b649094538eb4bb}
+      \strng{editorfullhash}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{editorfullhashraw}{2c73d66e3bbc0627addec42d9145a295}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1st ed. 2025}
+      \field{isbn}{978-981-97-6465-5}
+      \field{number}{1243}
+      \field{series}{Lecture {Notes} in {Electrical} {Engineering}}
+      \field{shorttitle}{Advances in {Communication}, {Devices} and {Networking}}
+      \field{title}{Advances in {Communication}, {Devices} and {Networking}: {Proceedings} of {ICCDN} 2024, {Volume} 1}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/978-981-97-6465-5
+      \endverb
+    \endentry
+    \entry{hernandez_sampieri_metodologiinvestigacion_2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=82531f0c5173ef965e84d101f98cbf0a}{%
+           family={Hernández\bibnamedelima Sampieri},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f13c721a663bebd34c4cafe3f71d14cd}{%
+           family={Fernandez-Collado},
+           familyi={F\bibinithyphendelim C\bibinitperiod},
+           given={Carlos\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5e441489e7f536d4f82d39bf61aa6b76}{%
+           family={Baptista\bibnamedelima Lucio},
+           familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {spa}%
+      }
+      \list{location}{1}{%
+        {México D.F.}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{fullhash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{fullhashraw}{c0318ec9941cec74c68a197a7953696c}
+      \strng{bibnamehash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{authorbibnamehash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{authornamehash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{authorfullhash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{authorfullhashraw}{c0318ec9941cec74c68a197a7953696c}
+      \strng{editorbibnamehash}{5e441489e7f536d4f82d39bf61aa6b76}
+      \strng{editornamehash}{5e441489e7f536d4f82d39bf61aa6b76}
+      \strng{editorfullhash}{5e441489e7f536d4f82d39bf61aa6b76}
+      \strng{editorfullhashraw}{5e441489e7f536d4f82d39bf61aa6b76}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Sexta edición}
+      \field{isbn}{978-1-4562-2396-0}
+      \field{note}{OCLC: 952035471}
+      \field{title}{Metodología de la investigación}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{file}
+      \verb PDF:/Users/venegas55/Zotero/storage/TKDEFMXI/Hernández Sampieri y Fernandez-Collado - 2014 - Metodología de la investigación.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{jaroudi_remembering_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0961a2256450ff2164da7db3457074ad}{%
+           family={Jaroudi},
+           familyi={J\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28673dc53f8f0e566b500ccbca21a6e4}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi Drew},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{fullhash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{fullhashraw}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{bibnamehash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{authorbibnamehash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{authornamehash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{authorfullhash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{authorfullhashraw}{1c8048c00e0bc5ed972de101e330ce26}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1040-2446}
+      \field{journaltitle}{Academic Medicine}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Remembering {Lawrence} {Weed}}
+      \field{title}{Remembering {Lawrence} {Weed}: {A} {Pioneer} of the {SOAP} {Note}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{94}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{11\bibrangedash 11}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1097/ACM.0000000000002483
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/00001888-201901000-00009
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/00001888-201901000-00009
+      \endverb
+    \endentry
+    \entry{llanio_navarro_propedeutica_2007}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a813a2f09ec39e49a5b84d82471b4490}{%
+           family={Llanio\bibnamedelima Navarro},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Raimundo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34be01bf04ad444e2490892bdbe9d0eb}{%
+           family={Perdomo\bibnamedelima González},
+           familyi={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9a8248fd56bcb9e560b0f1e72ca096a}{%
+           family={{Arús Soler,Enrique}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {spa}%
+      }
+      \list{location}{1}{%
+        {La Habana}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Ciencias Médicas. Editorial Pueblo y Educación}%
+      }
+      \strng{namehash}{695e68e3440015206431dc982eee402a}
+      \strng{fullhash}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{fullhashraw}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{bibnamehash}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{authorbibnamehash}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{authornamehash}{695e68e3440015206431dc982eee402a}
+      \strng{authorfullhash}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{authorfullhashraw}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-959-7132-87-5}
+      \field{note}{OCLC: 1011232092}
+      \field{title}{Propedéutica clínica y semiología médica}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{file}
+      \verb PDF:/Users/venegas55/Zotero/storage/2UNMVXXQ/Llanio Navarro et al. - 2007 - Propedéutica clínica y semiología médica.pdf:application/pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{ali_securing_2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=4b8c5d944220c8d74bb690d369cebe8b}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Althaf},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed4d0f791c6e95b6e89c6ba08bb874fe}{%
+           family={Gunavathie},
+           familyi={G\bibinitperiod},
+           given={M.A.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e267db9cb39c5fa30cf74c4da18b5b3c}{%
+           family={Srinivasan},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dac1bfb34b96e6c4982f11882ff2dac7}{%
+           family={Aruna},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbf286eb1c2282e6ac3700559a392cd8}{%
+           family={Chennappan},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b65693e2aa1a026af1a4e9345ec57de}{%
+           family={Matheena},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{dc27560d225a5b04e32e599b9583054b}
+      \strng{fullhash}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{fullhashraw}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{bibnamehash}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{authorbibnamehash}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{authornamehash}{dc27560d225a5b04e32e599b9583054b}
+      \strng{authorfullhash}{8862000fbadd3b5f2900d8cd61eff803}
+      \strng{authorfullhashraw}{8862000fbadd3b5f2900d8cd61eff803}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{25889141}
+      \field{journaltitle}{Clinical eHealth}
+      \field{month}{4}
+      \field{title}{Securing electronic health records using blockchain-enabled federated learning for {IoT}-based smart healthcare}
+      \field{urlday}{8}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{S2588914125000164}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.ceh.2025.04.002
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2588914125000164
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2588914125000164
+      \endverb
+    \endentry
+    \entry{dhar_advances_2025}{book}{}{}
+      \name{editor}{5}{}{%
+        {{un=0,uniquepart=base,hash=db18ef3cd46a12939a3835ccd731cbfb}{%
+           family={Dhar},
+           familyi={D\bibinitperiod},
+           given={Sourav},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2401169f2c52cd48fb26ffb2e644efd0}{%
+           family={Mukhopadhyay},
+           familyi={M\bibinitperiod},
+           given={Subhas},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=822e8fd7ccfae6436154dacc1f00b298}{%
+           family={Do},
+           familyi={D\bibinitperiod},
+           given={Dinh-Thuan},
+           giveni={D\bibinithyphendelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=468fa6544edb36e66aef0b400921e0c1}{%
+           family={Sur},
+           familyi={S\bibinitperiod},
+           given={Samarendra\bibnamedelima Nath},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e41c0b7c439278dd63e26f43bc076ee8}{%
+           family={Imoize},
+           familyi={I\bibinitperiod},
+           given={Agbotiname\bibnamedelima Lucky},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Singapore}%
+      }
+      \strng{namehash}{2276b35c33f9c4261b649094538eb4bb}
+      \strng{fullhash}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{fullhashraw}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{bibnamehash}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{editorbibnamehash}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{editornamehash}{2276b35c33f9c4261b649094538eb4bb}
+      \strng{editorfullhash}{2c73d66e3bbc0627addec42d9145a295}
+      \strng{editorfullhashraw}{2c73d66e3bbc0627addec42d9145a295}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{1st ed. 2025}
+      \field{isbn}{978-981-97-6465-5}
+      \field{number}{1243}
+      \field{series}{Lecture {Notes} in {Electrical} {Engineering}}
+      \field{shorttitle}{Advances in {Communication}, {Devices} and {Networking}}
+      \field{title}{Advances in {Communication}, {Devices} and {Networking}: {Proceedings} of {ICCDN} 2024, {Volume} 1}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1007/978-981-97-6465-5
+      \endverb
+    \endentry
+    \entry{hernandez_sampieri_metodologiinvestigacion_2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=82531f0c5173ef965e84d101f98cbf0a}{%
+           family={Hernández\bibnamedelima Sampieri},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f13c721a663bebd34c4cafe3f71d14cd}{%
+           family={Fernandez-Collado},
+           familyi={F\bibinithyphendelim C\bibinitperiod},
+           given={Carlos\bibnamedelima F.},
+           giveni={C\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5e441489e7f536d4f82d39bf61aa6b76}{%
+           family={Baptista\bibnamedelima Lucio},
+           familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {spa}%
+      }
+      \list{location}{1}{%
+        {México D.F.}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{fullhash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{fullhashraw}{c0318ec9941cec74c68a197a7953696c}
+      \strng{bibnamehash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{authorbibnamehash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{authornamehash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{authorfullhash}{c0318ec9941cec74c68a197a7953696c}
+      \strng{authorfullhashraw}{c0318ec9941cec74c68a197a7953696c}
+      \strng{editorbibnamehash}{5e441489e7f536d4f82d39bf61aa6b76}
+      \strng{editornamehash}{5e441489e7f536d4f82d39bf61aa6b76}
+      \strng{editorfullhash}{5e441489e7f536d4f82d39bf61aa6b76}
+      \strng{editorfullhashraw}{5e441489e7f536d4f82d39bf61aa6b76}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Sexta edición}
+      \field{isbn}{978-1-4562-2396-0}
+      \field{note}{OCLC: 952035471}
+      \field{title}{Metodología de la investigación}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{file}
+      \verb PDF:/Users/venegas55/Zotero/storage/TKDEFMXI/Hernández Sampieri y Fernandez-Collado - 2014 - Metodología de la investigación.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{jaroudi_remembering_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0961a2256450ff2164da7db3457074ad}{%
+           family={Jaroudi},
+           familyi={J\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28673dc53f8f0e566b500ccbca21a6e4}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi Drew},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{fullhash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{fullhashraw}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{bibnamehash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{authorbibnamehash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{authornamehash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{authorfullhash}{1c8048c00e0bc5ed972de101e330ce26}
+      \strng{authorfullhashraw}{1c8048c00e0bc5ed972de101e330ce26}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1040-2446}
+      \field{journaltitle}{Academic Medicine}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shorttitle}{Remembering {Lawrence} {Weed}}
+      \field{title}{Remembering {Lawrence} {Weed}: {A} {Pioneer} of the {SOAP} {Note}}
+      \field{urlday}{14}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{94}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{11\bibrangedash 11}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1097/ACM.0000000000002483
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/00001888-201901000-00009
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/00001888-201901000-00009
+      \endverb
+    \endentry
+    \entry{llanio_navarro_propedeutica_2007}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a813a2f09ec39e49a5b84d82471b4490}{%
+           family={Llanio\bibnamedelima Navarro},
+           familyi={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Raimundo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34be01bf04ad444e2490892bdbe9d0eb}{%
+           family={Perdomo\bibnamedelima González},
+           familyi={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9a8248fd56bcb9e560b0f1e72ca096a}{%
+           family={{Arús Soler,Enrique}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {spa}%
+      }
+      \list{location}{1}{%
+        {La Habana}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Ciencias Médicas. Editorial Pueblo y Educación}%
+      }
+      \strng{namehash}{695e68e3440015206431dc982eee402a}
+      \strng{fullhash}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{fullhashraw}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{bibnamehash}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{authorbibnamehash}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{authornamehash}{695e68e3440015206431dc982eee402a}
+      \strng{authorfullhash}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \strng{authorfullhashraw}{5399c3e31cb452b4bbcc1cc87daa77b9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-959-7132-87-5}
+      \field{note}{OCLC: 1011232092}
+      \field{title}{Propedéutica clínica y semiología médica}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{file}
+      \verb PDF:/Users/venegas55/Zotero/storage/2UNMVXXQ/Llanio Navarro et al. - 2007 - Propedéutica clínica y semiología médica.pdf:application/pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
