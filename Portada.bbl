@@ -272,7 +272,6 @@
       \field{volume}{94}
       \field{year}{2019}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{11\bibrangedash 11}
       \range{pages}{1}
       \verb{doi}
@@ -590,7 +589,6 @@
       \field{volume}{94}
       \field{year}{2019}
       \field{urldateera}{ce}
-      \true{nocite}
       \field{pages}{11\bibrangedash 11}
       \range{pages}{1}
       \verb{doi}
