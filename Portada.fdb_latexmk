@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Portada"] 1749744533.63765 "Portada.bcf" "Portada.bbl" "Portada" 1749755585.43276 0
-  "Portada.bcf" 1749755585.38282 133872 6440720f7bd6518487f95647c8db0336 "pdflatex"
+["biber Portada"] 1749744533.63765 "Portada.bcf" "Portada.bbl" "Portada" 1749782109.12154 0
+  "Portada.bcf" 1749782109.06886 133872 6440720f7bd6518487f95647c8db0336 "pdflatex"
   "referencias.bib" 1749662916.93783 2724 eff67c0ca6a41557865884fa21a8eb1c ""
   (generated)
   "Portada.bbl"
   "Portada.blg"
   (rewritten before read)
-["pdflatex"] 1749755584.63545 "/Users/venegas55/Library/CloudStorage/OneDrive-Personal/DCC/Anteproyecto/Portada.tex" "Portada.pdf" "Portada" 1749755585.43301 0
-  "/Users/venegas55/Library/CloudStorage/OneDrive-Personal/DCC/Anteproyecto/Portada.tex" 1749754493.62313 1866 6275ca854c9a668b1477bb7fda8986f9 ""
+["pdflatex"] 1749782108.27944 "/Users/venegas55/Library/CloudStorage/OneDrive-Personal/DCC/Anteproyecto/Portada.tex" "Portada.pdf" "Portada" 1749782109.12178 0
+  "/Users/venegas55/Library/CloudStorage/OneDrive-Personal/DCC/Anteproyecto/Portada.tex" 1749782108.07414 1866 27eb6413009f6e1319dac86d898e8f5a ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1741388039 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -146,11 +146,11 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
   "Introduccion.tex" 1749745488.82432 13410 aa86c0db62ad39209cfdea534421bf1f ""
   "MetodologiaCientifica.tex" 1749745903.30753 7065 1e3d813c33edbca4d498b19e5b6704ea ""
-  "Portada.aux" 1749755585.38011 3225 53b68932bdc4b321c76854249cc1795f "pdflatex"
-  "Portada.bbl" 1749755489.94693 26040 d11dfdd80d0f116d1f38740c4b406bb5 "biber Portada"
-  "Portada.run.xml" 1749755585.38338 2449 59d119bb8665972e8b4da20ae2e92475 "pdflatex"
-  "Portada.tex" 1749754493.62313 1866 6275ca854c9a668b1477bb7fda8986f9 ""
-  "Portada.toc" 1749755585.38342 1480 cd31e37a176d2bece8dc6c3b3dda0f7c "pdflatex"
+  "Portada.aux" 1749782109.06621 3225 53b68932bdc4b321c76854249cc1795f "pdflatex"
+  "Portada.bbl" 1749774967.33594 26040 d11dfdd80d0f116d1f38740c4b406bb5 "biber Portada"
+  "Portada.run.xml" 1749782109.06971 2449 59d119bb8665972e8b4da20ae2e92475 "pdflatex"
+  "Portada.tex" 1749782108.07414 1866 27eb6413009f6e1319dac86d898e8f5a ""
+  "Portada.toc" 1749782109.06976 1480 cd31e37a176d2bece8dc6c3b3dda0f7c "pdflatex"
   "Referencias.tex" 1749755584.45792 73 b97b5f4127ad450a49ccd64e0465c4cb ""
   "Resultados.tex" 1749753600.00466 619 90cb185e59e35b23335d4341ac0bc990 ""
   "images/logoUV.jpg" 1746216283.47428 247107 12ea419c7c72f0c0196706e0aee8d838 ""
