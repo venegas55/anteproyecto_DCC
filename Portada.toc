@@ -17,4 +17,5 @@
 \contentsline {subsection}{\numberline {2.4}Procedimiento y escenario}{11}{}%
 \contentsline {section}{\numberline {3}Resultados}{11}{}%
 \contentsline {subsection}{\numberline {3.1}Metas propuestas con la tesis}{11}{}%
-\contentsline {section}{\numberline {4}Referencias}{12}{}%
+\contentsline {subsection}{\numberline {3.2}Cronograma de Actividades}{12}{}%
+\contentsline {section}{\numberline {4}Referencias}{13}{}%

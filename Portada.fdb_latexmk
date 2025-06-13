@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Portada"] 1749834655.84349 "Portada.bcf" "Portada.bbl" "Portada" 1749834881.13643 0
-  "Portada.bcf" 1749834881.09137 133951 c8499ec039db4cbe92bc8539a4ab47cc "pdflatex"
+["biber Portada"] 1749834655.84349 "Portada.bcf" "Portada.bbl" "Portada" 1749845516.27676 0
+  "Portada.bcf" 1749845516.22887 133951 c8499ec039db4cbe92bc8539a4ab47cc "pdflatex"
   "referencias.bib" 1749662916.93783 2724 eff67c0ca6a41557865884fa21a8eb1c ""
   (generated)
   "Portada.bbl"
   "Portada.blg"
   (rewritten before read)
-["pdflatex"] 1749834880.44056 "/Users/venegas55/Library/CloudStorage/OneDrive-Personal/DCC/Anteproyecto/Portada.tex" "Portada.pdf" "Portada" 1749834881.13665 0
-  "/Users/venegas55/Library/CloudStorage/OneDrive-Personal/DCC/Anteproyecto/Portada.tex" 1749834879.46715 1884 d519ca195e3f6f7ff8c7f78b89ddf09f ""
+["pdflatex"] 1749845515.46379 "/Users/venegas55/Library/CloudStorage/OneDrive-Personal/DCC/Anteproyecto/Portada.tex" "Portada.pdf" "Portada" 1749845516.27703 0
+  "/Users/venegas55/Library/CloudStorage/OneDrive-Personal/DCC/Anteproyecto/Portada.tex" 1749845385.14871 1903 35d5eac6ae312929d48f71ea11ee0930 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1741388039 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
@@ -108,6 +108,7 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx" 1741388039 47926 a9a2e5a53d52e80cf54a5601aa76edd2 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1741388039 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1741388039 46850 d87daedc2abdc653769a6f1067849fe0 ""
+  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/float/float.sty" 1741388039 6749 16d2656a1984957e674b149555f1ea1d ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/geometry/geometry.sty" 1741388039 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1741388039 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1741388039 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -144,13 +145,14 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
   "Introduccion.tex" 1749834695.57643 13456 1c30f1ae5c6f05e7aa5b47fb4570fadc ""
   "MetodologiaCientifica.tex" 1749745903.30753 7065 1e3d813c33edbca4d498b19e5b6704ea ""
-  "Portada.aux" 1749834881.08906 3393 6276c0a41b88228a2677b8c319a18414 "pdflatex"
-  "Portada.bbl" 1749834697.0992 26000 4f920b83657b2d55b304268e91f872ef "biber Portada"
-  "Portada.run.xml" 1749834881.09183 2381 03968c7e75000649973b0908bba16058 "pdflatex"
-  "Portada.tex" 1749834879.46715 1884 d519ca195e3f6f7ff8c7f78b89ddf09f ""
-  "Portada.toc" 1749834881.09187 1480 cd31e37a176d2bece8dc6c3b3dda0f7c "pdflatex"
-  "Referencias.tex" 1749755584.45792 73 b97b5f4127ad450a49ccd64e0465c4cb ""
-  "Resultados.tex" 1749753600.00466 619 90cb185e59e35b23335d4341ac0bc990 ""
+  "Portada.aux" 1749845516.22636 3680 20273b5b1d5d43163078a54af2adecd9 "pdflatex"
+  "Portada.bbl" 1749845473.63231 26000 4f920b83657b2d55b304268e91f872ef "biber Portada"
+  "Portada.run.xml" 1749845516.22938 2381 03968c7e75000649973b0908bba16058 "pdflatex"
+  "Portada.tex" 1749845385.14871 1903 35d5eac6ae312929d48f71ea11ee0930 ""
+  "Portada.toc" 1749845516.22942 1558 f3e302dbeb3b722f4b758ea65385385f "pdflatex"
+  "Referencias.tex" 1749845470.68446 82 9d054ba8487f63d7fec747b5fbc8a8c5 ""
+  "Resultados.tex" 1749845515.25372 1164 8dd237d0b0eafcb17ec82713eca311ec ""
+  "images/gantt.png" 1749844632 76717 1e9e982b1cdc2cb761a0e04b196c8ceb ""
   "images/logoUV.jpg" 1746216283.47428 247107 12ea419c7c72f0c0196706e0aee8d838 ""
   (generated)
   "Portada.aux"

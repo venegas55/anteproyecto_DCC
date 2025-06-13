@@ -203,6 +203,8 @@ INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/biblate
 INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/float/float.sty
+INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/float/float.sty
 INPUT ./Portada.aux
 INPUT ./Portada.aux
 INPUT Portada.aux
@@ -259,6 +261,11 @@ INPUT /opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/
 INPUT ./Resultados.tex
 INPUT ./Resultados.tex
 INPUT Resultados.tex
+INPUT ./images/gantt.png
+INPUT ./images/gantt.png
+INPUT ./images/gantt.png
+INPUT ./images/gantt.png
+INPUT ./images/gantt.png
 INPUT ./Referencias.tex
 INPUT ./Referencias.tex
 INPUT Referencias.tex
